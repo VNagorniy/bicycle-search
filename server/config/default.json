@@ -1,0 +1,5 @@
+{
+   "port": 5000,
+  "jswSecret": "ghmhnt",
+    "mongoDB": "mongodb+srv://AdminN:AdminN@bicycle.eejexvn.mongodb.net/bicycle?retryWrites=true&w=majority"
+}
